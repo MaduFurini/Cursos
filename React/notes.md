@@ -1,5 +1,17 @@
 # Anotações gerais REACT
 
+## REACT
+    - Biblioteca JavaScript para criação de interfaces de usuário
+    - Criada pelo Facebook em 2011
+    - Atua no FrontEnd da aplicação
+    - Otimizar atualização e a sincronização de atividades simultâneas
+
+## Framework X Biblioteca
+    - Biblioteca 
+        - Compartilhar soluções por meio de funções ou métodos
+    - Framework
+        - Ferramenta que ajuda a ter como único objetivo focar no desenvolvimento no projeto, não em detalhes de configurações
+
 ## NODE
     - Node.js é um ambiente de execução JavaScript lado servidor
         - Runtime de JavaScript
